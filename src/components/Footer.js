@@ -3,7 +3,7 @@
 
 export default function Footer() {
     return (
-        <footer className="py-4 container mx-auto text-center mt-12">
+        <footer className="py-8 container mx-auto text-center mt-12">
             <div className="mx-auto flex justify-center gap-6 items-center flex-wrap">
                 <p className="text-sm text-gray-500 dark:text-gray-400">© 2021 JVN García</p>
                 <p className="text-sm text-gray-500 dark:text-gray-400 md:block hidden">|</p>
